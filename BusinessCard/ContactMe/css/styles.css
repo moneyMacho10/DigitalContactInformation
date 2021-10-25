@@ -1,0 +1,65 @@
+html{
+    text-align: center;
+}
+
+header{
+    background-color: skyblue;
+}
+
+.content-profile{
+    margin-top: -4px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: skyblue;
+}
+
+.content-profile h1{
+    font-size: 24px;
+    margin: 0;
+}
+
+.content-profile h2{
+    font-size: 18px;
+    margin: 0;
+}
+
+
+.content-profile h3{
+    font-size: 18px;
+    margin: 0;
+}
+
+.content-profile h4{
+    font-size: 18px;
+    margin: 0;
+}
+    
+.content-gmail{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.content-wave{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.content-instagram{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.content-linkedin{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.content-call{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.contact-information ul{
+    list-style-type: none;
+}
